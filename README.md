@@ -1,2 +1,2 @@
 # Agomoni
-a webpage created for celebrate the waiting days of durga puja
+a webpage created for celebrating the waiting days of durga puja
